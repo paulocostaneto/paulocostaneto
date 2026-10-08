@@ -1,23 +1,27 @@
 # Paulo Costa
 
-Senior software engineer. I build software that runs inside business operations: AI agents, integrations and platforms a team uses every day. Founder at [NexAi](https://www.nexaicorp.com). Remote from Italy, in the field since 1996.
+Software developer and founder of [NexAi](https://www.nexaicorp.com), based in Formigine, Italy. For nearly 25 years I have built websites, applications and integrations for business operations, combining hands-on development with experience in e-commerce, customer service and operations.
 
-## In production
+## What I do
 
-- **NexAi Engine**: AI agent runtime in Node 22 and TypeScript on the Claude Agent SDK. Fastify with SSE, Postgres, declarative agent config, append-only action trail, guardrails and handoff to humans. Runs [Nera](https://www.nexai.com.br), the sales agent on our site.
-- **NexAi Signage**: enterprise digital signage. .NET 9 Clean Architecture backend (Postgres, Redis, RabbitMQ, Azure Container Apps), Next.js admin with real time and a layout editor, players for Samsung Tizen, LG webOS and Android. Synchronized playback on about 200 screens for Ambev during the 2026 World Cup; print material control for Oxxo stores; iStock, a WMS for KFC's restaurant operation (with iFollow).
-- Integrations in agent flows: WhatsApp Business Cloud API, Chatwoot, HubSpot, Stripe, Google Calendar.
+- New systems, websites and web applications
+- Improvements to existing sites and apps, WordPress included
+- API integrations and workflow automation
 
-Most of this code is private (client and product work). Happy to walk through any of it on a call.
+Available for new projects and ongoing collaboration. Send the problem and the result you need; we clarify the scope by chat or email and agree on price and delivery date.
 
-## Background
+## Recent projects
 
-I read the business before I write code. I have run companies, managed e-commerce and customer service operations, and worked hands-on in marketing, trade marketing, SEO, UX and copy. Before software for business operations, I spent eight years building e-commerce and lead-generation sites, and started in software implementation and training in 1996.
+**NexAi Signage, Ambev, delivered through iFollow.** Developed a digital signage platform used in an Ambev retail campaign during the 2026 World Cup, delivered through iFollow. The platform includes a .NET backend, a Next.js administration interface and players with local media caching for offline playback.
 
-## Stack
+**Nera, NexAi website agent.** Developed an AI agent for the NexAi website using TypeScript and Node.js, with integrations for Google Calendar and HubSpot and handoff to a person when needed.
 
-TypeScript, Node, C#, .NET 9, Next.js, React, Postgres, Redis, RabbitMQ, Docker, Azure, Claude Agent SDK, Anthropic and OpenAI APIs.
+Most of this code is private (client and product work).
 
-## Elsewhere
+## Technologies
 
-[LinkedIn](https://www.linkedin.com/in/paulo-costa-neto) · [nexaicorp.com](https://www.nexaicorp.com)
+TypeScript, JavaScript, Node.js, React, Next.js, .NET (C#), PHP, WordPress, HTML and CSS.
+
+## Contact
+
+[paulo@nexaicorp.com](mailto:paulo@nexaicorp.com) · [LinkedIn](https://www.linkedin.com/in/paulo-costa-neto) · [nexaicorp.com](https://www.nexaicorp.com)
