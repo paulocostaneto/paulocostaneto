@@ -1,26 +1,22 @@
 # Paulo Costa
 
-Software developer and founder of [NexAi](https://www.nexaicorp.com), based in Formigine, Italy. For nearly 25 years I have built websites, applications and integrations for business operations, combining hands-on development with experience in e-commerce, customer service and operations.
+Designs and builds the systems that [NexAi](https://www.nexaicorp.com) delivers to its clients: business systems, integrations, automation and AI agents. Based in Formigine, Italy; works with companies in Europe and Brazil.
 
-## What I do
+Client and product code is private. What is running in production:
 
-- New systems, websites and web applications
-- Improvements to existing sites and apps, WordPress included
-- API integrations and workflow automation
+## In production
 
-Available for new projects and ongoing collaboration. Send the problem and the result you need; we clarify the scope by chat or email and agree on price and delivery date.
+**Digital signage platform** (Ambev, 2026 World Cup, delivered through iFollow). .NET backend, Next.js administration interface and players for Samsung Tizen and LG webOS with local media caching for offline playback. More than 150 points of sale.
 
-## Recent projects
+**Point-of-sale material planning and distribution** (Oxxo). Web system that replaced spreadsheet-based control for 600 stores and more than 240 items: distribution grid, artwork upload with print-readiness validation.
 
-**NexAi Signage, Ambev, delivered through iFollow.** Developed a digital signage platform used in an Ambev retail campaign during the 2026 World Cup, delivered through iFollow. The platform includes a .NET backend, a Next.js administration interface and players with local media caching for offline playback.
+**Inventory and distribution system for point-of-sale materials** (KFC Brazil). First phase: core, backend and frontend, then handed over to the iFollow team.
 
-**Nera, NexAi website agent.** Developed an AI agent for the NexAi website using TypeScript and Node.js, with integrations for Google Calendar and HubSpot and handoff to a person when needed.
+**Nera**, the AI agent on nexai.com.br. TypeScript, Node.js and Postgres on the Claude Agent SDK, with Google Calendar and HubSpot integrations and handoff to a person. Live since September 2026.
 
-Most of this code is private (client and product work).
+## Stack
 
-## Technologies
-
-TypeScript, JavaScript, Node.js, React, Next.js, .NET (C#), PHP, WordPress, HTML and CSS.
+TypeScript, Node.js, React, Next.js, .NET (C#), PHP, WordPress, Postgres, Docker, Azure, GitHub Actions, Claude Agent SDK.
 
 ## Contact
 
